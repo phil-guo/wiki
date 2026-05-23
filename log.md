@@ -25,3 +25,9 @@
   - 资产、能源管理体系认证服务项目采购公告 — 山西 — 招标中
   - 山东省第10期中青年企业家培训班 — 53.23万元 — 山东
 - All entries now have clickable bidcenter.com.cn URLs
+
+## [2026-05-23] ingest | ESG招标日报（第三轮）
+- Source: 采招网 bidcenter.com.cn — API直连GetSearchProHandler.ashx
+- Raw: raw/articles/esg-bidding-daily-2026-05-23.md — 1条招标信息（标题含ESG且正在招标中）
+- Updated: concepts/esg-tendering.md — 添加当日快照、最新搜索数据
+- Notes: 当日标题含ESG且正在招标中的项目仅1条——财信产业基金ESG专项服务采购项目（70万，湖南，截止2026-06-05）
