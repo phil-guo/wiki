@@ -1,0 +1,63 @@
+---
+source_url: https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
+ingested: 2026-05-23
+sha256: 43c4f19b9c199f9e2458ec0c13946429a48955b33a884ac8443be850ffcd553a
+---
+
+# ESG招标信息日报 | 2026-05-23
+
+> 来源：采招网 (bidcenter.com.cn) ESG关键词搜索结果
+> 抓取时间：2026-05-23
+
+## 直接ESG相关条目（标题含ESG）
+
+### 1. 防城港海上风电项目ESG环境、社会和治理咨询服务采购
+- **类型**：中标结果
+- **金额**：78万元
+- **地区**：广西
+- **日期**：2026-05-23
+- **链接**：https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
+
+### 2. ESG服务 | 国家核电2025年度社会责任ESG报告编制咨询服务结果公告
+- **类型**：中标结果
+- **金额**：详见内容
+- **地区**：跨省
+- **日期**：2026-05-23
+- **链接**：https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
+
+### 3. 财信产业基金ESG专项服务采购项目采购公告
+- **类型**：招标公告
+- **预算**：70万元
+- **地区**：湖南
+- **截止日期**：2026-06-05
+- **链接**：https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
+
+### 4. 2026年汽车全价值链ESG工作组第一次会议及政府试点会中标结果
+- **类型**：中标结果
+- **金额**：详见内容
+- **地区**：北京
+- **日期**：2026-05-22
+- **链接**：https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
+
+### 5. 数字服务绿色相关资质咨询服务采购项目谈判采购公告
+- **类型**：招标公告
+- **预算**：详见内容
+- **地区**：山东
+- **截止日期**：2026-05-27
+- **链接**：https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
+
+## ESG相关内容条目（内容含ESG关键词）
+
+### 6. 陕西省榆林市东部库布齐沙漠-毛乌素沙地沙化土地综合治理项目2025年榆阳区项目区N4标段中标候选人
+- **类型**：中标结果
+- **金额**：245.20万元
+- **地区**：陕西
+- **日期**：2026-05-22
+- **链接**：https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
+
+### 7. 陕西省榆林市东部库布齐沙漠-毛乌素沙地沙化土地综合治理项目2025年榆阳区项目区N4标段中标候选人公示
+- **类型**：中标结果
+- **金额**：168.59万元
+- **地区**：陕西
+- **日期**：2026-05-22
+- **链接**：https://search.bidcenter.com.cn/search?keywords=ESG&mod=0
