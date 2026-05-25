@@ -43,3 +43,12 @@
 - Raw: raw/articles/esg-bidding-daily-2026-05-24.md — 1条招标信息（标题含ESG且正在招标中）
 - Updated: concepts/esg-tendering.md — 添加2026-05-24当日快照
 - Notes: 当日标题含ESG且正在招标中的项目仅1条——财信产业基金ESG专项服务采购项目（70万，湖南，截止2026-06-05），与前几日报为同一项目，无新增ESG招标项目
+
+## [2026-05-25] ingest | ESG招标日报
+- Source: 采招网 bidcenter.com.cn — API接口直连（AES解密）
+- Raw: raw/articles/esg-bidding-daily-2026-05-25.md — 2条招标信息（标题含ESG且正在招标中）
+- Updated: concepts/esg-tendering.md — 添加2026-05-25当日快照，新增重庆ESG信息披露项目
+- New findings:
+  - 关于为ESG信息披露服务公开选取机构的公告 — 20万元 — 重庆 — 2026-05-25（新增）
+  - 财信产业基金ESG专项服务采购项目 — 70万元 — 湖南 — 截止2026-06-05（持续招标中）
+- Highlights: 今日新增1条重庆ESG信息披露招标公告，财信产业基金项目仍在招标期内
