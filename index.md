@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-05-26 | Total pages: 1
+> Last updated: 2026-05-27 | Total pages: 1
 
 ## Entities
 <!-- Alphabetical within section -->
