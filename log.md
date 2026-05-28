@@ -74,3 +74,14 @@
   - 招标I社会责任ESG蓝皮书2026编制服务:7万 — 7万元 — 辽宁 — 2026-05-27（🔴新增）
   - 持续招标项目：辽宁ESG蓝皮书（7万，截止6月4日）、重庆ESG信息披露（20万，⚠️5月28日截止）
 - Highlights: 今日新增3条ESG招标公告，为近几日最多。重庆ESG信息披露服务项目将于5月28日截止！
+
+## [2026-05-28] ingest | ESG招标日报
+- Source: 采招网 bidcenter.com.cn — ESG关键词搜索（浏览器抓取，筛选条件：标题搜索+招标公告+近三天）
+- Raw: raw/articles/esg-bidding-daily-2026-05-28.md — 7条招标信息（标题含ESG且正在招标中），新增2条
+- Updated: concepts/esg-tendering.md — 添加2026-05-28当日快照，新增2条重点推荐项目
+  - Updated: index.md — updated last-modified date
+  - New files: raw/articles/esg-bidding-daily-2026-05-28.md
+- New findings:
+  - 询比采购2026年ESG报告设计采购/采购公告 — 北京 — 2026-05-28（🆕新增）
+  - 2026年-2030年ESG服务直接采购公告 — 天津 — 2026-05-28（🆕新增，采购信息）
+- Highlights: 今日新增2条ESG招标项目（北京ESG报告设计、天津ESG服务）。⚠️重庆ESG信息披露服务（20万元）5月28日截止！恒丰银行ESG风险管理系统有两条二次公告同时进行。
